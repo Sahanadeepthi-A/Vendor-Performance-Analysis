@@ -1,6 +1,6 @@
 # Vendor-Performance-Analysis
 End-to-end analytics project on supplier efficiency and performance optimization
-Tools: SQL, Python (Pandas, NumPy, Matplotlib), Power BI
+Tools: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI
 
 
 ## Project Overview
